@@ -7,31 +7,31 @@ The objective of this project was to determine the viability of a proposed bike-
 ## Results
 The analysis produced the following visualizations:
 
-![Gender breakdown](Images/Gender_breakdown.png)
+![Gender breakdown](Gender_breakdown.png)
 
 Of the users whose genders were shared, a sizable majority were male.
 
-![Subscription breakdown](Images/Subscription_status.png)
+![Subscription breakdown](Subscription_status.png)
 
 Over 75% of the trips were made by subscribers. This is a positive sign that once users subscribe, they often continue to use the bicycles.
 
-![Trip durations](Images/Trip_durations.png)
+![Trip durations](Trip_durations.png)
 
 Nearly all trips were under an hour in length, with the highest frequencies occurring for trips under 20 minutes in length.
 
-![Gender-split durations](Images/Gender_durations.png)
+![Gender-split durations](Gender_durations.png)
 
 Riders of unknown gender, who tend to be unsubscribed customers, were not as strong in their tendency toward shorter trips
 
-![Ride dates and times](Images/Dates_times.png)
+![Ride dates and times](Dates_times.png)
 
 Weekday rides tended to cluster around the morning and evening commute hours. Weekend rides were more broadly spread throughout the day.
 
-![Trip times by gender](Images/Gender_trip_times.png)
+![Trip times by gender](Gender_trip_times.png)
 
 Gender does not appear to have much affect on the dates and times people prefer to ride, except that the user base skews toward males in general.
 
-![Trip days by user type](Images/Type_gender_day.png)
+![Trip days by user type](Type_gender_day.png)
 
 Unsubscribed users were more prevalent on weekends, while subscribers tended to use the bikes more often on weekdays.
 
